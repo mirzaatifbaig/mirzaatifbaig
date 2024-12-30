@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @mirzaatifbaig
-- 👀 I’m interested in javascript/listp/C
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on nothing
+- 👋 Hi, I’m Atif
+- 🌱 I’m currently learning javascript and react.
 - 📫 If you want to reach message me at mirzaatifb91@gmail.com or here.
